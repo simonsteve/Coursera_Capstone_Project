@@ -1,1 +1,1 @@
-# Coursera_Capstone_Project
+# Google_Data_Analyst_Capstone_Project
